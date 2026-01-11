@@ -1,30 +1,3 @@
-Siap 👍 ini contoh isi file README.md yang lengkap, rapi, dan siap pakai untuk repo GitHub tema undangan kamu.
-Kamu bisa copy–paste lalu sesuaikan nama, link demo, dan stack yang kamu pakai.
-💙 Elegant Blue Floral – Digital Wedding Invitation Website
-Elegant Blue Floral adalah template website undangan pernikahan digital dengan konsep elegan, romantis, dan klasik modern. Mengusung dominasi warna biru lembut, ornamen floral, kupu-kupu, serta aksen emas, tema ini memberikan kesan mewah, bersih, dan timeless.
-Template ini dirancang mobile-first, responsif, ringan, dan cocok digunakan sebagai undangan pernikahan online maupun sebagai produk template undangan digital.
-🌸 Preview Tema
-Elegant • Blue Tone • Floral Classic • Romantic • Luxury Feel
-(Tambahkan screenshot / link demo di sini)
-Contoh:
-🔗 Demo: https://your-demo-link.com
-✨ Fitur Utama
-🎨 Desain premium Elegant Blue Floral
-📱 Fully responsive (mobile, tablet, desktop)
-⏳ Countdown wedding
-💌 Halaman pembuka (cover invitation)
-🧭 Navigasi floating menu
-📍 Detail acara + integrasi Google Maps
-📝 RSVP interaktif
-💬 Buku tamu digital
-🖼 Galeri foto & video prewedding
-🎁 Digital gift (rekening / QR code)
-🎵 Background music
-🔗 Share ke WhatsApp & media sosial
-⚡ Loading ringan & smooth animation
-🎯 Cocok Digunakan Untuk
-Undangan pernikahan digital modern
-Jasa pembuatan undangan online
 Template website wedding
 Portfolio web designer / developer
 🛠️ Teknologi yang Digunakan
